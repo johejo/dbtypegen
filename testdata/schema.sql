@@ -1,0 +1,12 @@
+CREATE TABLE `user` (
+  id   BIGINT PRIMARY KEY,
+  created_at DATETIME(3) NOT NULL,
+  active BOOLEAN DEFAULT NULL,
+  name VARCHAR(36) NOT NULL
+);
+
+CREATE TABLE `group` (
+  id VARCHAR(36) PRIMARY KEY,
+  image BLOB NOT NULL,
+  options JSON NOT NULL
+);
