@@ -3,7 +3,7 @@ services:
   mysql:
     container_name: "mysql"
     hostname: "mysql"
-    image: mysql/mysql-server:8.0.15
+    image: mysql/mysql-server:8
     environment:
       MYSQL_ROOT_PASSWORD: password
       MYSQL_DATABASE: dbtypegen
