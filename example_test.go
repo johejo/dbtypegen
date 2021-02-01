@@ -57,7 +57,7 @@ func Example() {
 		panic(err)
 	}
 
-	if err := db.QueryRowContext(ctx, u.SelectAll()+" WHERE id=?", 1).Scan(u.Scans()...); err != nil {
+	if err := db.QueryRowContext(ctx, u.SelectAll()+" WHERE id=?", 1).Scan(u.ScanAll()...); err != nil {
 		panic(err)
 	}
 
