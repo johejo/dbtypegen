@@ -85,7 +85,7 @@ func TestGenerated(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	if err := db.QueryRowContext(ctx, u.SelectAll()+" WHERE id=?", 1).Scan(u.Scans()...); err != nil {
+	if err := db.QueryRowContext(ctx, u.SelectAll()+" WHERE id=?", 1).Scan(u.ScanAll()...); err != nil {
 		t.Fatal(err)
 	}
 
