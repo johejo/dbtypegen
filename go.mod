@@ -7,5 +7,5 @@ require (
 	github.com/google/go-cmp v0.5.6
 	github.com/iancoleman/strcase v0.2.0
 	github.com/k0kubun/sqldef v0.10.15
-	golang.org/x/tools v0.1.4
+	golang.org/x/tools v0.1.5
 )
