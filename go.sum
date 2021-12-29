@@ -7,8 +7,8 @@ github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/iancoleman/strcase v0.2.0 h1:05I4QRnGpI0m37iZQRuskXh+w77mr6Z41lwQzuHLwW0=
 github.com/iancoleman/strcase v0.2.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
-github.com/k0kubun/sqldef v0.11.15 h1:Qtv4XwOWo+220zdBdmfh0fERlQi01mU0tEZhxOmJ8Ec=
-github.com/k0kubun/sqldef v0.11.15/go.mod h1:Ikcd//Ng4Go/xWB0E15LQz8D9rSWmbvaa38s0fO7dfM=
+github.com/k0kubun/sqldef v0.11.16 h1:PHuxuAi0b7ODUXcqvV6ppggT/4slk76Iu2sSpEgKHVM=
+github.com/k0kubun/sqldef v0.11.16/go.mod h1:Ikcd//Ng4Go/xWB0E15LQz8D9rSWmbvaa38s0fO7dfM=
 github.com/lib/pq v1.10.4/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
 github.com/mattn/go-sqlite3 v1.14.9/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
 github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
