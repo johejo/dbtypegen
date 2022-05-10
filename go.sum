@@ -15,8 +15,8 @@ github.com/iancoleman/strcase v0.2.0 h1:05I4QRnGpI0m37iZQRuskXh+w77mr6Z41lwQzuHL
 github.com/iancoleman/strcase v0.2.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
 github.com/k0kubun/pp/v3 v3.1.0/go.mod h1:vIrP5CF0n78pKHm2Ku6GVerpZBJvscg48WepUYEk2gw=
-github.com/k0kubun/sqldef v0.11.53 h1:3BbT2Lf2gZ04CScuY8J7QRwybcov4Khu2CGbC1XGiPE=
-github.com/k0kubun/sqldef v0.11.53/go.mod h1:HTAfnBox3YksYavB4+45xgy8EB+kh5ZDqt13WmMzd3g=
+github.com/k0kubun/sqldef v0.11.54 h1:6PQkccSCisx59ePnJYmhtZv1POfXWgqoUOn2tAUAvYo=
+github.com/k0kubun/sqldef v0.11.54/go.mod h1:HTAfnBox3YksYavB4+45xgy8EB+kh5ZDqt13WmMzd3g=
 github.com/lib/pq v1.10.5/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
 github.com/mattn/go-colorable v0.1.12/go.mod h1:u5H1YNBxpqRaxsYJYSkiCWKzEfiAb1Gb520KVy5xxl4=
 github.com/mattn/go-isatty v0.0.14/go.mod h1:7GGIvUiUoEMVVmxf/4nioHXj79iQHKdU27kJ6hsGG94=
